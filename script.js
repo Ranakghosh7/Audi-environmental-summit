@@ -1,0 +1,1 @@
+alert("It is a non-profit website of Vivekananda Yuba Parishad made to protect and evolve the environment as humanly as possible.  ");
